@@ -1,7 +1,104 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "23.10.2022 22:01 Farm3-8_by_scenum",
+	"lastEventDate": "23.10.2022 22:05 Farm3-8_by_scenum",
 	"status": 2,
 	"id": "100086711325382",
-	"name": ""
+	"name": "",
+	"amountFriends": "8",
+	"screenname": "Bianca Araujo Barbosa",
+	"birthdate": "1996 November 16",
+	"country": "Brazil",
+	"isAvatarExists": true,
+	"cookie": [
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1700451314.271723,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "sb",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "FHtLYyea7ZQEjhr1wtBAO6vJ"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1700451094.72976,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "datr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "FHtLYwZ9dAS5SmdDToHO9jD8"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1698098529.983914,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100086711325382"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1667166778,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1920x937"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1698098529.983938,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "50%3A9aEztlvuMJmCFQ%3A2%3A1665891312%3A-1%3A13327%3A%3AAcWf4o_8J_qjOmmB1ostiTOF965xyGBOHUYQy9curA"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674338530.577851,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0Ca45dqrRe253SKEs.AWXoWWCIXhylWdNJpEgd8N59h2Y.BjVbng.w7.AAA.0.0.BjVbnj.AWVnBkeM_iE"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1666562699236%2C%22v%22%3A1%7D"
+		}
+	]
 }
