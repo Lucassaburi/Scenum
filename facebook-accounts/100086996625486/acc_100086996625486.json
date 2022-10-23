@@ -8,8 +8,8 @@
 	"amountFriends": "",
 	"screenname": "Maria Oliveira",
 	"birthdate": "1998 February 1",
-	"country": "",
-	"isAvatarExists": false,
+	"country": "Sul",
+	"isAvatarExists": true,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1667119669,
+			"expirationDate": 1667121775,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674290749.170989,
+			"expirationDate": 1674292884.883285,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0yytZe0fYdTxV2nKM.AWVneCOMvrvsvzROBTTdq1PsdEw.BjVPv5.u2.AAA.0.0.BjVP8-.AWXt_6P0LV4"
+			"value": "0yytZe0fYdTxV2nKM.AWV0vmYmXcejhPj-j6FbOHYCPLU.BjVPv5.u2.AAA.0.0.BjVQeV.AWVH0BL2LbE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1666514874305%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1666516972466%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "23.10.2022 09:05 Registro"
+	"lastEventDate": "23.10.2022 09:22 Farm0"
 }
