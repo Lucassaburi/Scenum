@@ -8,8 +8,8 @@
 	"amountFriends": "",
 	"screenname": "Liz Ferreira",
 	"birthdate": "1998 July 3",
-	"country": "",
-	"isAvatarExists": false,
+	"country": "Brazil",
+	"isAvatarExists": true,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1667360947,
+			"expirationDate": 1667676648,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674532046.638443,
+			"expirationDate": 1674847669.833622,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0gwIMEPG9imVtBIjs.AWWpVLCrMqwA0yhM7LMBZxnripo.BjWKrx.TT.AAA.0.0.BjWK3P.AWVpL0MN_fk"
+			"value": "0gwIMEPG9imVtBIjs.AWWYXpqQpDlQDEo7am3xXAR7R9w.BjWKrx.TT.AAA.0.0.BjXX64.AWXrLW_L8N4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1666756153262%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1667071856293%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "26.10.2022 04:08 Registro"
+	"lastEventDate": "29.10.2022 19:30 Farm0"
 }
