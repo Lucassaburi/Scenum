@@ -8,8 +8,8 @@
 	"amountFriends": "",
 	"screenname": "Sophia Rodrigues",
 	"birthdate": "1999 March 15",
-	"country": "",
-	"isAvatarExists": false,
+	"country": "Brazil",
+	"isAvatarExists": true,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -102,7 +102,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1667627234,
+			"expirationDate": 1674799182.626929,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0DhyJNwaOVEnAVSw3.AWUg7vv7w5twrhUxHj-0HeDpY5Q.BjXLwP.DI.AAA.0.0.BjXMFQ.AWURqro1zgw"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1667628090,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,19 +128,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674798307.530253,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0DhyJNwaOVEnAVSw3.AWWEIsjuR-rUfD6HiZi8pnuGeKg.BjXLwP.DI.AAA.0.0.BjXL3k.AWXvEksIFmo"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -136,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1667022412227%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1667023257978%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "29.10.2022 05:56 Registro"
+	"lastEventDate": "29.10.2022 06:01 Farm0"
 }
