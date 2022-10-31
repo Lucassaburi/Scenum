@@ -8,8 +8,8 @@
 	"amountFriends": "",
 	"screenname": "Sophia Silva",
 	"birthdate": "1999 August 12",
-	"country": "",
-	"isAvatarExists": false,
+	"country": "Paulo",
+	"isAvatarExists": true,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -36,18 +36,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "GOJdYyUbZU_v8fk2bWkkcX4b"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "m_pixel_ratio",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
@@ -90,19 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "x-referer",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJyIjoiL2NvbmZpcm1lbWFpbC5waHA%2FbmV4dD1odHRwcyUzQSUyRiUyRm0uZmFjZWJvb2suY29tJTJGJTNGcGFpcHYlM0QwJTI2ZWF2JTNEQWZZQ0dNMTZSQUpDcWF2MER1SENwLXY2eXFwUmNFNzlhLTNBN2xFbDVsSnVzalVUajNmZ2txRWpDSmlEZGFIWXV3byZwYWlwdj0wJmVhdj1BZlpHNEpYMTljSllKSFRFbFItb2d1VWVQQ3JxbWhaZVgyZkpfblNrN29qbGVwT3RUMENuZ1l3aE5QMm1pRjFYYTdjJnNvZnQ9aGprIiwiaCI6Ii9jb25maXJtZW1haWwucGhwP25leHQ9aHR0cHMlM0ElMkYlMkZtLmZhY2Vib29rLmNvbSUyRiUzRnBhaXB2JTNEMCUyNmVhdiUzREFmWUNHTTE2UkFKQ3FhdjBEdUhDcC12NnlxcFJjRTc5YS0zQTdsRWw1bEp1c2pVVGozZmdrcUVqQ0ppRGRhSFl1d28mcGFpcHY9MCZlYXY9QWZaRzRKWDE5Y0pZSkhURWxSLW9ndVVlUENycW1oWmVYMmZKX25TazdvamxlcE90VDBDbmdZd2hOUDJtaUYxWGE3YyZzb2Z0PWhqayIsInMiOiJtIn0%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1667702629,
+			"expirationDate": 1667792841,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674873682.435236,
+			"expirationDate": 1674963899.921431,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0NuFY80qG4yxUWTaJ.AWWVlNGW9RCbvNl4Ca8PUmrctdI.BjXeIY.CM.AAA.0.0.BjXeRV.AWXc5IDX_20"
+			"value": "0NuFY80qG4yxUWTaJ.AWV718vF6myKG-LdGT1ZQakFU8s.BjXeIY.CM.AAA.0.0.BjX0S8.AWUH2d3FUII"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1667097801452%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1667188023870%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "30.10.2022 02:53 Registro"
+	"lastEventDate": "31.10.2022 03:47 Farm0"
 }
