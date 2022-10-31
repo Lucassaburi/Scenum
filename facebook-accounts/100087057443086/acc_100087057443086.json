@@ -8,8 +8,8 @@
 	"amountFriends": "",
 	"screenname": "Laura Alves",
 	"birthdate": "1977 January 10",
-	"country": "",
-	"isAvatarExists": false,
+	"country": "Brazil",
+	"isAvatarExists": true,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -36,18 +36,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "QcZdYysuh9luLlfNXZa2JCBD"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "m_pixel_ratio",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
@@ -90,19 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "x-referer",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJyIjoiL2NvbmZpcm1lbWFpbC5waHA%2FbmV4dD1odHRwcyUzQSUyRiUyRm0uZmFjZWJvb2suY29tJTJGJTNGcGFpcHYlM0QwJTI2ZWF2JTNEQWZZRUY3cFJsR05LY2I0M0dEWlVMQnNQeU11ZS1rWllHVFJHeS1uN0Q2cmlCWHNIdVlGZUtLR2lBY2RpcFFBZzN2NCZwYWlwdj0wJmVhdj1BZmIxV1dTWlYyclFaclkxcGxoVUs2dzdSLTJqaVNDT2FONnZTaFp0RGtqYmVKc0lTbkhmWENfMXRONDNoREtEaUdzJnNvZnQ9aGprIiwiaCI6Ii9jb25maXJtZW1haWwucGhwP25leHQ9aHR0cHMlM0ElMkYlMkZtLmZhY2Vib29rLmNvbSUyRiUzRnBhaXB2JTNEMCUyNmVhdiUzREFmWUVGN3BSbEdOS2NiNDNHRFpVTEJzUHlNdWUta1pZR1RSR3ktbjdENnJpQlhzSHVZRmVLS0dpQWNkaXBRQWczdjQmcGFpcHY9MCZlYXY9QWZiMVdXU1pWMnJRWnJZMXBsaFVLNnc3Ui0yamlTQ09hTjZ2U2hadERramJlSnNJU25IZlhDXzF0TjQzaERLRGlHcyZzb2Z0PWhqayIsInMiOiJtIn0%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1667695318,
+			"expirationDate": 1667791308,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674866641.707474,
+			"expirationDate": 1674962360.641486,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "06daD4mohbZcDd6Cz.AWUkJIyXLNTNAR66GE1GVzdtbH0.BjXcZB.Ce.AAA.0.0.BjXcjU.AWXSDJ49LfQ"
+			"value": "06daD4mohbZcDd6Cz.AWWDiHYrbWO8Lhdj-p_OZrm_4v4.BjXcZB.Ce.AAA.0.0.BjXz65.AWVyoENCI2g"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1667090776465%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1667186504265%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "30.10.2022 00:55 Registro"
+	"lastEventDate": "31.10.2022 03:21 Farm0"
 }
