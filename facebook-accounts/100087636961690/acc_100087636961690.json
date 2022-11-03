@@ -8,8 +8,8 @@
 	"amountFriends": "",
 	"screenname": "Júlia Lopes",
 	"birthdate": "1994 July 27",
-	"country": "",
-	"isAvatarExists": false,
+	"country": "Brazil",
+	"isAvatarExists": true,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -36,18 +36,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "U91iYyo3BCaUN52nC8npZWd9"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "m_pixel_ratio",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
@@ -90,19 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "x-referer",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJyIjoiL2NvbmZpcm1lbWFpbC5waHA%2FbmV4dD1odHRwcyUzQSUyRiUyRm0uZmFjZWJvb2suY29tJTJGJTNGcGFpcHYlM0QwJTI2ZWF2JTNEQWZiZ0tTclpiaXRfam1pNnJnOUdaYjhscFF2QnloaVJ1bzZHQ29aYl9FbVBYZVRDSXFRbkc4emFOZHBGUFpRaWlKcyZwYWlwdj0wJmVhdj1BZmJuUEVwSlZ3OGt6OU1YdGNweGl5ekh6WFlXX3RWeElkY0pYY3Q4R0lHQkNEX2RvaVBrODJhaEp2TzluVmtvT1ZZJnNvZnQ9aGprIiwiaCI6Ii9jb25maXJtZW1haWwucGhwP25leHQ9aHR0cHMlM0ElMkYlMkZtLmZhY2Vib29rLmNvbSUyRiUzRnBhaXB2JTNEMCUyNmVhdiUzREFmYmdLU3JaYml0X2ptaTZyZzlHWmI4bHBRdkJ5aGlSdW82R0NvWmJfRW1QWGVUQ0lxUW5HOHphTmRwRlBaUWlpSnMmcGFpcHY9MCZlYXY9QWZiblBFcEpWdzhrejlNWHRjcHhpeXpIelhZV190VnhJZGNKWGN0OEdJR0JDRF9kb2lQazgyYWhKdk85blZrb09WWSZzb2Z0PWhqayIsInMiOiJtIn0%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1668028920,
+			"expirationDate": 1668120963,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675200293.780671,
+			"expirationDate": 1675291899.764333,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "00DQk0LNLgzj9wZab.AWWXyH2J6CiMDzzc265gM4Zck98.BjYt1T.AP.AAA.0.0.BjYuAm.AWVOwWKgybk"
+			"value": "00DQk0LNLgzj9wZab.AWUDdzR-wqkRKZyS-4uUHsxIQ4k.BjYt1T.AP.AAA.0.0.BjZEX9.AWU_ivxPXFM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1667424489431%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1667516167072%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "02.11.2022 21:36 Registro"
+	"lastEventDate": "03.11.2022 22:56 Farm0"
 }
