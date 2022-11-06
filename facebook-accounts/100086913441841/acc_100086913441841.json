@@ -1,6 +1,6 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "06.11.2022 00:51 Farm3-8_by_scenum",
+	"lastEventDate": "06.11.2022 00:57 Farm3-8_by_scenum",
 	"status": 2,
 	"id": "100086913441841",
 	"name": "",
@@ -101,7 +101,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1667874724,
+			"expirationDate": 1668301047,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -126,7 +126,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675046198.433501,
+			"expirationDate": 1675471950.196223,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -135,7 +135,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0DdSEMgnBEWdRssJR.AWURuZRAbXK6QdftFwR6WESfjH4.BjXZxG.ni.AAA.0.0.BjYIY3.AWVwQCvo6Hg"
+			"value": "0DdSEMgnBEWdRssJR.AWVtzis8sqVuQEtwxOLWz0Rggl8.BjXZxG.ni.AAA.0.0.BjZwVP.AWVm5jyuqTY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -147,7 +147,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1667270330463%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1667696252278%2C%22v%22%3A1%7D"
 		}
 	]
 }
