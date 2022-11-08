@@ -6,10 +6,6 @@
 	"id": "100086898982278",
 	"name": "",
 	"amountFriends": "",
-	"screenname": "Luísa Martins",
-	"birthdate": "1988 April 10",
-	"country": "",
-	"isAvatarExists": true,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -78,19 +74,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668397939,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1920x937"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -103,7 +86,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675568979.956116,
+			"expirationDate": 1668489362,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1920x937"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675660381.710281,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +108,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0BU8u3545ZcZo5FPY.AWUvYXRublJHn0A3sOWiLU5nDN4.BjVqMq.r3.AAA.0.0.BjaIBU.AWVBlP3rJRs"
+			"value": "0BU8u3545ZcZo5FPY.AWVgnJkKzqRHorZnDodnb-89_HE.BjVqMq.r3.AAA.0.0.BjaeVf.AWWOF4nfk3A"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,8 +120,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1667793110802%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1667884566790%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "08.11.2022 05:09 Farm3-8_by_scenum"
+	"lastEventDate": "08.11.2022 05:17 Farm3-8_by_scenum"
 }
