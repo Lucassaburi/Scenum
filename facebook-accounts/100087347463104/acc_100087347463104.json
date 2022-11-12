@@ -9,7 +9,7 @@
 	"screenname": "Maria Souza",
 	"birthdate": "1979 April 8",
 	"country": "Sul",
-	"isAvatarExists": false,
+	"isAvatarExists": true,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668654384,
+			"expirationDate": 1668899482,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668134927,
+			"expirationDate": 1668380375,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "cppo",
@@ -112,11 +112,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsNDJoYjEzM2Y3bjciLCJ0aW1lIjoxNjY4MDQ4ODE3fQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsOWJ2Ym9uaWIxdSIsInRpbWUiOjE2NjgyOTM5NzV9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675825425.27703,
+			"expirationDate": 1676070505.29741,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0HMWSlKn5KOTM5Ksz.AWXzlCxVxdc6U6oPz7XYFHaMyAI.BjVyD0.r3.AAA.0.0.BjbGoT.AWV6jGORt9Y"
+			"value": "0HMWSlKn5KOTM5Ksz.AWVYOKxC54FnXQ18_T-65_uV0Uk.BjVyD0.r3.AAA.0.0.BjcCdr.AWURZ7gWmec"
 		},
 		{
 			"domain": ".facebook.com",
@@ -137,8 +137,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668049587576%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668294652916%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "12.11.2022 23:08 Farm3-8_by_scenum"
+	"lastEventDate": "12.11.2022 23:11 Farm3-8_by_scenum"
 }
