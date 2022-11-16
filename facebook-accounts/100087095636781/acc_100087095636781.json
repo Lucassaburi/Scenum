@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669053198,
+			"expirationDate": 1669245160,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676224207.211182,
+			"expirationDate": 1676416184.791728,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0E4JIGScaegMNqlN1.AWX2MW9RaECKL9U4Zn8rFYMZAGY.BjYsjD.eC.AAA.0.0.Bjcn_Q.AWUaJnbLl40"
+			"value": "0E4JIGScaegMNqlN1.AWXU1wzECVA6eOgVgD-nt5Reetg.BjYsjD.eC.AAA.0.0.BjdW26.AWW3pqD8l-s"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668448369386%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668640331398%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "16.11.2022 23:09 Farm3-8_by_scenum"
+	"lastEventDate": "16.11.2022 23:12 Farm3-8_by_scenum"
 }
