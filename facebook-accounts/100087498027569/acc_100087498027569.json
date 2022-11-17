@@ -9,7 +9,7 @@
 	"screenname": "Helena Costa",
 	"birthdate": "1991 May 5",
 	"country": "",
-	"isAvatarExists": false,
+	"isAvatarExists": true,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -36,18 +36,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "f4Z1Y6567iT_LY8yrzal4bfW"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "m_pixel_ratio",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
@@ -90,19 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "x-referer",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJyIjoiL2NvbmZpcm1lbWFpbC5waHA%2FbmV4dD1odHRwcyUzQSUyRiUyRm0uZmFjZWJvb2suY29tJTJGJTNGcGFpcHYlM0QwJTI2ZWF2JTNEQWZiN016TGlHMzY3ZjNOSFhpbThqNFpGSVFiYlM2TEozWldIa1VZVkpjT2hmdnNQZ1ZkZENsQXc2aUJKODNnbm5nTSZwYWlwdj0wJmVhdj1BZmFTck9FOEVoeUJORWtRb0N0THlDOWdrWmI2VG9wZXVlbzNsWUNFX3JYLU9mNGc2dXVmd182MmJpTFJJYW5aNXRrJnNvZnQ9aGprIiwiaCI6Ii9jb25maXJtZW1haWwucGhwP25leHQ9aHR0cHMlM0ElMkYlMkZtLmZhY2Vib29rLmNvbSUyRiUzRnBhaXB2JTNEMCUyNmVhdiUzREFmYjdNekxpRzM2N2YzTkhYaW04ajRaRklRYmJTNkxKM1pXSGtVWVZKY09oZnZzUGdWZGRDbEF3NmlCSjgzZ25uZ00mcGFpcHY9MCZlYXY9QWZhU3JPRThFaHlCTkVrUW9DdEx5Qzlna1piNlRvcGV1ZW8zbFlDRV9yWC1PZjRnNnV1ZndfNjJiaUxSSWFuWjV0ayZzb2Z0PWhqayIsInMiOiJtIn0%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1669252005,
+			"expirationDate": 1669311874,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676423055.958921,
+			"expirationDate": 1676482454.944323,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0r6mcQ4AhmbJzgVia.AWUJtOTbpiJeQ0fDHa3sLhIgJiw.BjdYZ_.H1.AAA.0.0.BjdYiR.AWXJrLv8cMg"
+			"value": "0r6mcQ4AhmbJzgVia.AWX6lvNixP5ecHxs4m0wgD6k5p8.BjdYZ_.H1.AAA.0.0.BjdnCX.AWXOvUYivZk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668647181204%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668707074982%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "17.11.2022 01:15 Registro"
+	"lastEventDate": "17.11.2022 17:44 Farm0"
 }
