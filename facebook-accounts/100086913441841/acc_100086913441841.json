@@ -1,6 +1,6 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "22.11.2022 21:05 Farm3-8_by_scenum",
+	"lastEventDate": "22.11.2022 21:18 Farm3-8_by_scenum",
 	"status": 2,
 	"id": "100086913441841",
 	"name": "",
@@ -8,7 +8,7 @@
 	"screenname": "Isabella Gomes",
 	"birthdate": "1981 April 2",
 	"country": "Sul",
-	"isAvatarExists": true,
+	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -101,7 +101,32 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668301047,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJrbmRwZjY1aWQyNCIsInRpbWUiOjE2NjcyNjk5MjN9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676927231.652081,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0DdSEMgnBEWdRssJR.AWV73bTeW1xQDqk-Z_hEgdd66_4.BjXZxG.ni.AAA.0.0.BjfToA.AWW612UllUA"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1669756703,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -116,38 +141,13 @@
 			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJrbmRwZjY1aWQyNCIsInRpbWUiOjE2NjcyNjk5MjN9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675471950.196223,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0DdSEMgnBEWdRssJR.AWVtzis8sqVuQEtwxOLWz0Rggl8.BjXZxG.ni.AAA.0.0.BjZwVP.AWVm5jyuqTY"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
 			"name": "presence",
 			"path": "/",
 			"sameSite": "unspecified",
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1667696252278%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669151903702%2C%22v%22%3A1%7D"
 		}
 	]
 }
